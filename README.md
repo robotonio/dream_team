@@ -1,7 +1,7 @@
 
 # DREAM TEAM
 *Our Dream, Our Team*
-![Dream Team](https://github.com/robotonio/dream_team/blob/main/Assets/colaz.JPG)
+![Dream Team](https://github.com/robotonio/dream_team/blob/main/Assets/colaz.png)
 
 Είμαστε 7 μαθητές από διάφορα σχολεία του Κορυδαλλού που μας ένωσε η αγάπη μας για την ρομποτική! Γνωριστήκαμε στο κέντρο εκπαιδευτικής ρομποτικής ROBOTONIO και αποφασίσαμε να συνεργαστούμε, να διασκεδάσουμε και να ζήσουμε όλοι μαζί την FLL εμπειρία!
 
