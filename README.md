@@ -131,3 +131,7 @@
   - Με κουμπί πανικού: όταν ο οδηγός πατάει ένα κουμπί πανικού
   - Μέσω του κέντρου ελέγχου: με την εφαρμογή που αναπτύξαμε με το AppInven-tor και την τρέχουμε σε ένα tablet
   - Με την ανίχνευση παραβίασης του χώρου των εμπορευμάτων, μέσω των αι-σθητήρων υπέρυθρων που εγκαταστάθηκαν στις πόρτες.
+
+
+### Πηγές
+> [BSI and TTClub Cargo Theft Report 2021](https://www.ttclub.com/-/media/files/tt-club/bsi-tt-club-cargo-theft-report/2021-02-23---bsi-and-tt-club-cargo-theft-report-2021.pdf)
