@@ -133,8 +133,8 @@
   - Με την ανίχνευση παραβίασης του χώρου των εμπορευμάτων, μέσω των αι-σθητήρων υπέρυθρων που εγκαταστάθηκαν στις πόρτες.
 
 
-### Πηγές
-> [BSI and TTClub Cargo Theft Report 2021](https://www.ttclub.com/-/media/files/tt-club/bsi-tt-club-cargo-theft-report/2021-02-23---bsi-and-tt-club-cargo-theft-report-2021.pdf)
-> [Travelers: 5 Cargo Theft Tactics and How to Help Prevent Them](https://www.travelers.com/resources/supply-chain-management/5-tactics-cargo-thieves-use)
-> [Δίκτυα 5G](https://el.wikipedia.org/wiki/5G)
-> [Spartan Security: Jamming ή Μπλοκάρισμα ασύρματου συστήματος ασφαλείας](https://spartan.gr/nea-blog/blogs/455-jamming)
+>Πηγές
+[BSI and TTClub Cargo Theft Report 2021](https://www.ttclub.com/-/media/files/tt-club/bsi-tt-club-cargo-theft-report/2021-02-23---bsi-and-tt-club-cargo-theft-report-2021.pdf)
+[Travelers: 5 Cargo Theft Tactics and How to Help Prevent Them](https://www.travelers.com/resources/supply-chain-management/5-tactics-cargo-thieves-use)
+[Δίκτυα 5G](https://el.wikipedia.org/wiki/5G)
+[Spartan Security: Jamming ή Μπλοκάρισμα ασύρματου συστήματος ασφαλείας](https://spartan.gr/nea-blog/blogs/455-jamming)
